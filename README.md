@@ -77,11 +77,9 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-kde-plasma) |
-| [Pardus Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-pardus-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-pardus-kde-plasma) |
 | [Debian Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-debian-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-debian-kde-plasma) |
 | [MxLinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-mxlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-kde-plasma) |
-| [Xubuntu 探索筆記](https://samwhelp.github.io/note-about-xubuntu/) | [GitHub](https://github.com/samwhelp/note-about-xubuntu) |
-| [LinuxMint Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-linuxmint-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-kde-plasma) |
+| [Kubuntu 探索筆記](https://samwhelp.github.io/note-about-kubuntu/) | [GitHub](https://github.com/samwhelp/note-about-kubuntu) |
 | [Fedora Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-fedora-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-fedora-kde-plasma) |
 | [Archlinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-archlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-kde-plasma) |
 | [Manjaro Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-manjaro-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-kde-plasma) |
